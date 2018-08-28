@@ -2,5 +2,5 @@
 self-study project
 
 TODO
-  * rest of example
+  * rest of examples
   * convert it into a react project
