@@ -2,5 +2,7 @@
 self-study project
 
 TODO
-  * rest of examples
+  * rest of examples...
   * convert it into a react project
+  * build webgl utils
+
